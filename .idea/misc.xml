@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/drawable/ic_pos_app_icon.xml" value="0.133" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout-land/activity_account_statement.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout-land/item_tablerow_outline.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_account_statement.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_create_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_deposit_outline.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_entry.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_general_outline.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_general_outline2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_verification.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/activity_withdrawal_outline.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/deposit_item_outline.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/item_gen_outline.xml" value="0.17793917385383567" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/item_table_outline.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/item_tableheader_outline.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/item_tableregular_outline.xml" value="0.3396880415944541" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/item_tablerow_outline.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/withdrawal_deposit_outline.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/POSApp/app/src/main/res/layout/withdrawal_item_outline.xml" value="0.18297101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

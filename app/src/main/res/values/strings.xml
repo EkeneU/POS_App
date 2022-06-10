@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">POS App</string>
+    <string name="app_developer">Developed by Ekene Uzodinma</string>
+    <string name="app_logo">App logo</string>
+    <string name="title_activity_options">OptionsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_general_outline">GeneralOutlineActivity</string>
+
+    <string name="Deposit">Deposit</string>
+    <string name="Withdrawal">Withdrawal</string>
+    <string name="Balance_sheet">Account Statement</string>
+    <string name="transaction_status">Transaction Status</string>
+    <string name="transaction_reference">Transaction Reference</string>
+    <string name="amount">Amount</string>
+    <string name="beneficiary_name">Beneficiary Name</string>
+    <string name="beneficiary_bank">Beneficiary Bank</string>
+    <string name="provider_reference_session_id">Provider Reference/Session ID</string>
+    <string name="agent_name">Agent Name</string>
+    <string name="terminal_id">Terminal ID</string>
+    <string name="serial_no">Serial No.</string>
+    <string name="response_code">Response Code</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="response_message">Response Message</string>
+    <string name="retrieval_reference">Retrieval Reference</string>
+    <string name="date">Date</string>
+    <string name="authorization_code">Authorization Code</string>
+    <string name="t_type_response">T type response.</string>
+    <string name="t_status_response">T status response</string>
+    <string name="t_reference_response">T reference response</string>
+    <string name="amount_response">Amount response</string>
+    <string name="b_name_response">B name response</string>
+    <string name="b_bank_response">B bank response</string>
+    <string name="pr_session_id_response">Provider ref./Session ID response</string>
+    <string name="ag_name_response">Ag Name Response</string>
+    <string name="t_id_response">T ID Response</string>
+    <string name="s_no_response">S. No Response</string>
+    <string name="r_code_response">R. code response</string>
+    <string name="r_mess_response">R. mess. response</string>
+    <string name="a_code_response">A. code response</string>
+    <string name="r_r_response">R.r.response</string>
+    <string name="date_response">Date response</string>
+    <string name="dep_p_fee">Dep. P. Fee</string>
+    <string name="dep_p_f_response">Dep. P. F. Response</string>
+    <string name="dep_terminal_type">Dep. Terminal Type</string>
+    <string name="t_type_reponse">T.Type. Reponse</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="nationality">Nationality</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_password">Create Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="balance">Balance</string>
+    <string name="description">Description</string>
+    <string name="bvn">BVN</string>
+    <string name="email_address">Email Address</string>
+</resources>
